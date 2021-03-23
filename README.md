@@ -9,7 +9,7 @@ Adding an update to my Readme.
 * what are your carrer goals?
 * why did you choose FinTech as a carrer path?
 
-![Monkey](images/monkey.jpg)
+![Monkey](images/monkey.jpeg)
 
 # Healine: My Coll New Repo is here!
 

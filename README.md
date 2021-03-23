@@ -12,10 +12,16 @@ Adding an update to my Readme.
 # Healine: My Coll New Repo is here!
 
 ## Section: Green Lettuce
-Green Lettuce is delicions
+Green Lettuce is delicions  **delicions**
+
+---
 
 ### Suction: Bibb Lettuce
 
 	* Item 1
 	  * A
           * A
+---
+* house
+Green up taste  **green**
+---
